@@ -1,0 +1,8 @@
+{
+  "ui.divine.warning": {
+    "category": "master",
+    "sounds": [
+      "warning"
+    ]
+  }
+}
